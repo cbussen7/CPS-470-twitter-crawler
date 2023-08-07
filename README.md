@@ -1,6 +1,8 @@
 # Author: Christopher Bussen (bussenc1)
 # Date: November 10, 2022
 
+**NOTE**:  I excluded the file with my Twitter keys
+
 Instructions: 
 I tested and compiled/ran this code using Google Colab - simply click the run button within Colab. For this project, Colab was using Python version 3.7.15. Additionally, it is important to note that in order to run this code, you must be able to enter valid credentials for an elevated Twitter Developer account (I had these files saved in a txt file that I would upload each time I ran the program). NOTE: I wasn't sure whether to submit the .ipynb file or the .py file so I included both of them.
 
